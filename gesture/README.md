@@ -35,5 +35,5 @@ for(var i =0 ; i < self.arr.length;i++){
 ```
 
 ##  效果预览：
-# 阅览地址：https://jackyilin.github.io/canvas/clock/index.html
+### 阅览地址：https://jackyilin.github.io/canvas/clock/index.html
 ![image](https://github.com/ChrisLee0211/-Gesture_unlock_DEMO/blob/master/example01.gif)
